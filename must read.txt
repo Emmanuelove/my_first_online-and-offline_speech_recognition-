@@ -1,0 +1,2 @@
+The main2.py contains python codes for offline speech recognition using vosk and pyaudio
+The main.py contains python codes for online speech recognition using speechRecognition, pyaudio and pyttsx3 as the libraries
